@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rg" type="id" />
+    <item name="bNext" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="etMail" type="id" />
+    <item name="bLogin" type="id" />
+</resources>

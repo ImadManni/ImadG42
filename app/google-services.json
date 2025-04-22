@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406120934050",
+    "project_id": "imadg42-a4845",
+    "storage_bucket": "imadg42-a4845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406120934050:android:9c4f70e36040c6c46805fb",
+        "android_client_info": {
+          "package_name": "com.example.imadg42"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs102JzP4Y8Or_VTIg2WJb05DLsaB4pLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
